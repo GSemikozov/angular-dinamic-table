@@ -1,0 +1,45 @@
+td, th {
+	text-align: center;
+	padding: 3px;
+}
+
+table {
+	margin-bottom: 40px;
+}
+
+table, td, th, input {
+	border-radius: 3px;
+	border: 1px solid #ddd;
+	color: #555;
+	font-size: 14px;
+	line-height: 25px;
+}
+
+input {
+	padding: 4px 12px;
+}
+
+label {
+	margin-right: 14px;
+}
+
+.content-margin {
+	margin-top: 75px;
+}
+
+.person-filter {
+	margin-bottom: 25px;
+}
+
+.person-filter > li > a {
+	padding: 8px 12px;
+	font-size: 12px;
+}
+
+.hidden {
+	display: none;
+}
+
+.visible {
+	display: block;
+}
